@@ -1,0 +1,14 @@
+/* Write your code here. */
+.emoji-item {
+  background-color: #ffffff33;
+  border-style: solid;
+  border-color: #ffffff33;
+  border-radius: 10px;
+  padding: 35px;
+  margin: 10px;
+  width: 15vw;
+  cursor: pointer;
+}
+.li {
+  list-style-type: none;
+}

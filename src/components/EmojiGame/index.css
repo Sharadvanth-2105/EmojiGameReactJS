@@ -1,0 +1,11 @@
+/* Write your code here. */
+.container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 60px;
+}
